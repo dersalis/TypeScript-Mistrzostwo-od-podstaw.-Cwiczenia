@@ -1,7 +1,4 @@
----
-title: "TypeScript"
-output: pdf_document
----
+
 # TypeScript: Mistrzostwo od podstaw. Ćwiczenia
 
 Cześć! Witajcie w skrypcie z ćwiczeniami z języka programowania TypeScript - miejscu, gdzie możecie poznać ten wspaniały język i utrwalić swoją wiedzę dzięki praktycznym zadaniom. Jeśli jesteście początkującymi programistami lub posiadacie już doświadczenie w innych językach programowania, ale chcecie zdobyć nowe umiejętności, to jesteście we właściwym miejscu!
