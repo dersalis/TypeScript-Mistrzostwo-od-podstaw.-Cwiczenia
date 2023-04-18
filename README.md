@@ -9,6 +9,8 @@ W naszym skrypcie znajdziecie wiele zadań, które pomogą Wam w praktycznym opa
 
 Jesteśmy pewni, że podczas wykonywania zadań nie tylko nauczycie się programowania w TypeScript, ale także zaczniecie go kochać! Dajcie nam znać, jeśli macie jakiekolwiek pytania lub sugestie. Powodzenia!
 
+*Skrypt ten dedykuje moje Muzie - do dzieła Słodka!*
+
 ## Zadania
 
 1. Napisz funkcję, która zsumuje wszystkie liczby parzyste z przedziału od 1 do podanej liczby.
