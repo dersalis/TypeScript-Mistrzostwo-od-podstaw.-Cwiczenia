@@ -1,3 +1,7 @@
+---
+title: "TypeScript"
+output: pdf_document
+---
 # TypeScript: Mistrzostwo od podstaw. Ćwiczenia
 Ćwiczenia które pozwolą zapanować nad językiem TypeScript.
 
@@ -48,21 +52,32 @@
 
 ## Rozwiązania
 
-1. Napisz funkcję, która zsumuje wszystkie liczby parzyste z przedziału od 1 do podanej liczby.
+### Zadanie 1. 
+**Napisz funkcję, która zsumuje wszystkie liczby parzyste z przedziału od 1 do podanej liczby.**
 
-Oto szczegółowy opis kroków do wykonania zadania w języku TypeScript:
+1. Stwórz nowy plik TypeScript z rozszerzeniem `.ts` w wybranej lokalizacji na swoim komputerze.
 
-1. Zdefiniuj funkcję o nazwie `sumEvenNumbersInRange`, która przyjmie jeden argument typu number o nazwie `n`.
-2. Zadeklaruj zmienną `sum` i przypisz jej początkową wartość 0.
-3. Utwórz pętlę `for`, która będzie iterować po liczbach od 1 do `n`.
-4. Wewnątrz pętli `for` sprawdź, czy aktualna liczba jest parzysta. Można to zrobić przez sprawdzenie reszty z dzielenia przez 2. Jeśli reszta z dzielenia wynosi 0, to liczba jest parzysta.
-5. Jeśli aktualna liczba jest parzysta, dodaj ją do zmiennej `sum`.
-6. Po zakończeniu pętli `for`, zwróć wartość zmiennej `sum`.
-
-Oto kod funkcji `sumEvenNumbersInRange` w języku TypeScript:
+2. Zdefiniuj typ wejściowy funkcji, który określi, że funkcja przyjmuje pojedynczy parametr liczbowy o nazwie `n`, który będzie wyznaczał górną granicę przedziału liczb, które mają być zsumowane.
 
 ```typescript
-function sumEvenNumbersInRange(n: number): number {
+function sumEvenNumbers(n: number): number {
+  // ciało funkcji
+}
+```
+
+3. Zadeklaruj zmienną `sum` i przypisz jej początkową wartość 0. Ta zmienna będzie służyć do przechowywania sumy liczb parzystych.
+
+```typescript
+function sumEvenNumbers(n: number): number {
+  let sum = 0;
+  // ciało funkcji
+}
+```
+
+4. Napisz pętlę `for`, która będzie iterować po kolejnych liczbach od 1 do `n`. W każdej iteracji pętli sprawdź, czy aktualna liczba jest parzysta. Jeśli tak, dodaj ją do zmiennej `sum`.
+
+```typescript
+function sumEvenNumbers(n: number): number {
   let sum = 0;
   for (let i = 1; i <= n; i++) {
     if (i % 2 === 0) {
@@ -73,4 +88,99 @@ function sumEvenNumbersInRange(n: number): number {
 }
 ```
 
-Funkcja ta przyjmuje jedną liczbę `n` i zwraca sumę wszystkich liczb parzystych z przedziału od 1 do `n`.
+5. Zwróć wartość zmiennej `sum` jako wynik działania funkcji.
+
+6. Zapisz plik i skompiluj go do JavaScripta przy użyciu kompilatora TypeScript. Można to zrobić z poziomu terminala lub za pomocą dostępnych narzędzi zintegrowanych z edytorem kodu.
+
+7. Przetestuj funkcję, wywołując ją z różnymi argumentami i upewnij się, że działa poprawnie.
+
+Gotowa funkcja powinna wyglądać następująco:
+
+```typescript
+function sumEvenNumbers(n: number): number {
+  let sum = 0;
+  for (let i = 1; i <= n; i++) {
+    if (i % 2 === 0) {
+      sum += i;
+    }
+  }
+  return sum;
+}
+```
+
+
+### Zadanie 2. 
+**Napisz program, który pobiera od użytkownika listę liczb i zwraca ich sumę.**
+
+1. Stwórz nowy plik TypeScript z rozszerzeniem `.ts` w wybranej lokalizacji na swoim komputerze.
+
+2. Zdefiniuj typ wejściowy programu, który określi, że program pobiera listę liczb. Aby to zrobić, możesz zadeklarować tablicę typu `number[]`.
+
+```typescript
+function sumNumbers(numbers: number[]): number {
+  // ciało programu
+}
+```
+
+3. Zadeklaruj zmienną `sum` i przypisz jej początkową wartość 0. Ta zmienna będzie służyć do przechowywania sumy liczb.
+
+```typescript
+function sumNumbers(numbers: number[]): number {
+  let sum = 0;
+  // ciało programu
+}
+```
+
+4. Napisz pętlę `for`, która będzie iterować po każdej liczbie w tablicy `numbers`. W każdej iteracji pętli dodaj aktualną liczbę do zmiennej `sum`.
+
+```typescript
+function sumNumbers(numbers: number[]): number {
+  let sum = 0;
+  for (let i = 0; i < numbers.length; i++) {
+    sum += numbers[i];
+  }
+  return sum;
+}
+```
+
+5. Zwróć wartość zmiennej `sum` jako wynik działania programu.
+
+6. Napisz funkcję, która pobiera od użytkownika listę liczb i przekazuje ją do funkcji `sumNumbers`. Aby pobrać listę liczb od użytkownika, można wykorzystać metodę `prompt` dla każdej liczby.
+
+```typescript
+function readNumbersFromUser(): number[] {
+  const numbers: number[] = [];
+  let userInput: string | null = prompt('Podaj liczbę (lub naciśnij Anuluj, aby zakończyć):');
+  while (userInput !== null) {
+    const parsedNumber = parseFloat(userInput);
+    if (!isNaN(parsedNumber)) {
+      numbers.push(parsedNumber);
+    }
+    userInput = prompt('Podaj liczbę (lub naciśnij Anuluj, aby zakończyć):');
+  }
+  return numbers;
+}
+
+const numbers = readNumbersFromUser();
+const sum = sumNumbers(numbers);
+console.log(`Suma liczb wynosi: ${sum}`);
+```
+
+7. Zapisz plik i skompiluj go do JavaScripta przy użyciu kompilatora TypeScript. Można to zrobić z poziomu terminala lub za pomocą dostępnych narzędzi zintegrowanych z edytorem kodu.
+
+8. Uruchom program w przeglądarce internetowej i wprowadź listę liczb. Program powinien zwrócić ich sumę.
+
+Gotowy program powinien wyglądać następująco:
+
+```typescript
+function sumNumbers(numbers: number[]): number {
+  let sum = 0;
+  for (let i = 0; i < numbers.length; i++) {
+    sum += numbers[i];
+  }
+  return sum;
+}
+
+function readNumbersFromUser(): number[] {
+  const numbers: number[] = [];
+  let
