@@ -23,7 +23,8 @@ Jesteśmy pewni, że podczas wykonywania zadań nie tylko nauczycie się program
 8. Napisz funkcję, która przyjmuje jako argument napis i zwraca true, jeśli jest on palindromem, false w przeciwnym przypadku.
 9. Napisz klasę, która reprezentuje książkę i ma pola tytuł i autor oraz metody zwracające te dane.
 10. Napisz program, który pobiera od użytkownika trzy liczby i wyświetla je w kolejności od najmniejszej do największej.
-11. Napisz funkcję, która przyjmuje jako argument napis i zwraca go w postaci odwrotnej, ale bez odwracania kolejności słów.
+
+<!-- 11. Napisz funkcję, która przyjmuje jako argument napis i zwraca go w postaci odwrotnej, ale bez odwracania kolejności słów.
 12. Napisz program, który pobiera od użytkownika listę liczb i zwraca ich średnią arytmetyczną.
 13. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca sumę liczb znajdujących się na nieparzystych indeksach.
 14. Napisz klasę, która reprezentuje punkt na płaszczyźnie i ma pola x i y oraz metody zwracające te wartości.
@@ -34,26 +35,27 @@ Jesteśmy pewni, że podczas wykonywania zadań nie tylko nauczycie się program
 19. Napisz klasę, która reprezentuje trójkąt i ma metody zwracające jego pole powierzchni oraz obwód.
 20. Napisz program, który pobiera liczby od użytkownika, jedną po drugiej, aż użytkownik wprowadzi liczbę 0, po czym wyświetla sumę wprowadzonych liczb.
 
-1. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca tablicę z dodanymi do nich ich indeksami.
-2. Napisz program, który pobiera od użytkownika długość promienia i wysokość stożka i wyświetla jego objętość.
-3. Napisz funkcję, która przyjmuje jako argument dwie tablice i zwraca tablicę z elementami obu tablic.
-4. Napisz klasę, która reprezentuje punkt na przestrzeni trójwymiarowej i ma pola x, y i z oraz metody zwracające te wartości.
-5. Napisz program, który pobiera od użytkownika napis i wyświetla go z zamienionymi miejscami pierwszą i ostatnią literą.
-6. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca tablicę z liczbami unikalnymi oraz ich liczbą wystąpień.
-7. Napisz program, który pobiera od użytkownika liczbę i wyświetla napis "parzysta" jeśli liczba jest parzysta, "nieparzysta" w przeciwnym przypadku.
-8. Napisz funkcję, która przyjmuje jako argument napis i zwraca go bez powtórzeń.
-9. Napisz klasę, która reprezentuje samochód i ma pola marka i rok produkcji oraz metody zwracające te dane.
-10. Napisz program, który pobiera od użytkownika dwie liczby i wyświetla ich iloraz.
-11. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca tablicę zawierającą tylko liczby dodatnie.
-12. Napisz program, który pobiera od użytkownika liczbę i wyświetla jej silnię.
-13. Napisz funkcję, która przyjmuje jako argument napis i zwraca go w postaci, w której pierwsza litera każdego wyrazu jest duża.
-14. Napisz klasę, która reprezentuje prostokąt i ma pola długość i szerokość oraz metody zwracające te wartości.
-15. Napisz program, który pobiera od użytkownika napis i wyświetla go w odwrotnej kolejności.
-16. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca tablicę zawierającą tylko liczby parzyste.
-17. Napisz program, który pobiera od użytkownika liczbę i wyświetla informację, czy jest to liczba pierwsza.
-18. Napisz funkcję, która przyjmuje jako argument obiekt typu Map i zwraca tablicę zawierającą klucze tej mapy.
-19. Napisz klasę, która reprezentuje koło i ma pola promień oraz metody zwracające jego pole powierzchni i obwód.
-20. Napisz program, który pobiera od użytkownika trzy liczby i wyświetla je w kolejności od największej do najmniejszej.
+21. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca tablicę z dodanymi do nich ich indeksami.
+22. Napisz program, który pobiera od użytkownika długość promienia i wysokość stożka i wyświetla jego objętość.
+23. Napisz funkcję, która przyjmuje jako argument dwie tablice i zwraca tablicę z elementami obu tablic.
+24. Napisz klasę, która reprezentuje punkt na przestrzeni trójwymiarowej i ma pola x, y i z oraz metody zwracające te wartości.
+25. Napisz program, który pobiera od użytkownika napis i wyświetla go z zamienionymi miejscami pierwszą i ostatnią literą.
+26. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca tablicę z liczbami unikalnymi oraz ich liczbą wystąpień.
+27. Napisz program, który pobiera od użytkownika liczbę i wyświetla napis "parzysta" jeśli liczba jest parzysta, "nieparzysta" w przeciwnym przypadku.
+28. Napisz funkcję, która przyjmuje jako argument napis i zwraca go bez powtórzeń.
+29. Napisz klasę, która reprezentuje samochód i ma pola marka i rok produkcji oraz metody zwracające te dane.
+30. Napisz program, który pobiera od użytkownika dwie liczby i wyświetla ich iloraz.
+
+31. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca tablicę zawierającą tylko liczby dodatnie.
+32. Napisz program, który pobiera od użytkownika liczbę i wyświetla jej silnię.
+33. Napisz funkcję, która przyjmuje jako argument napis i zwraca go w postaci, w której pierwsza litera każdego wyrazu jest duża.
+34. Napisz klasę, która reprezentuje prostokąt i ma pola długość i szerokość oraz metody zwracające te wartości.
+35. Napisz program, który pobiera od użytkownika napis i wyświetla go w odwrotnej kolejności.
+36. Napisz funkcję, która przyjmuje jako argument tablicę liczb i zwraca tablicę zawierającą tylko liczby parzyste.
+37. Napisz program, który pobiera od użytkownika liczbę i wyświetla informację, czy jest to liczba pierwsza.
+38. Napisz funkcję, która przyjmuje jako argument obiekt typu Map i zwraca tablicę zawierającą klucze tej mapy.
+39. Napisz klasę, która reprezentuje koło i ma pola promień oraz metody zwracające jego pole powierzchni i obwód.
+40. Napisz program, który pobiera od użytkownika trzy liczby i wyświetla je w kolejności od największej do najmniejszej. -->
 
 
 ## Rozwiązania
