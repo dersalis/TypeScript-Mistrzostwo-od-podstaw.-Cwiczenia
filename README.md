@@ -1,7 +1,7 @@
 
 # TypeScript: Mistrzostwo od podstaw. Ćwiczenia
 
-Cześć! Witaj w skrypcie z ćwiczeniami z języka programowania TypeScript - miejscu, gdzie możesz poznać ten wspaniały język i utrwalić swoją wiedzę dzięki praktycznym zadaniom. Jeśli jesteś początkującym programistą lub posiadasz już doświadczenie w innych językach programowania, ale chcesz zdobyć nowe umiejętności, to jesteść we właściwym miejscu!
+Cześć! Witaj w skrypcie z ćwiczeniami z języka programowania TypeScript - miejscu, gdzie możesz poznać ten wspaniały język i utrwalić swoją wiedzę dzięki praktycznym zadaniom. Jeśli jesteś początkującym programistą lub posiadasz już doświadczenie w innych językach programowania, ale chcesz zdobyć nowe umiejętności, to jesteś we właściwym miejscu!
 
 TypeScript to język programowania, który jest rozszerzeniem języka JavaScript i dodaje do niego statyczną analizę typów. To oznacza, że możesz uniknąć wielu błędów i problemy związanych z typami, co ułatwi Ci pracę i przyspieszy proces debugowania. TypeScript jest stosunkowo łatwy do nauki, a jego składnia jest bardzo podobna do JavaScriptu, co sprawia, że nauka tego języka jest bardzo przyjemna.
 
