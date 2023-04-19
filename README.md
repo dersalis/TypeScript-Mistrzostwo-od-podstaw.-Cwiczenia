@@ -1,13 +1,13 @@
 
 # TypeScript: Mistrzostwo od podstaw. Ćwiczenia
 
-Cześć! Witajcie w skrypcie z ćwiczeniami z języka programowania TypeScript - miejscu, gdzie możecie poznać ten wspaniały język i utrwalić swoją wiedzę dzięki praktycznym zadaniom. Jeśli jesteście początkującymi programistami lub posiadacie już doświadczenie w innych językach programowania, ale chcecie zdobyć nowe umiejętności, to jesteście we właściwym miejscu!
+Cześć! Witaj w skrypcie z ćwiczeniami z języka programowania TypeScript - miejscu, gdzie możesz poznać ten wspaniały język i utrwalić swoją wiedzę dzięki praktycznym zadaniom. Jeśli jesteś początkującym programistą lub posiadasz już doświadczenie w innych językach programowania, ale chcesz zdobyć nowe umiejętności, to jesteść we właściwym miejscu!
 
-TypeScript to język programowania, który jest rozszerzeniem języka JavaScript i dodaje do niego statyczną analizę typów. To oznacza, że możecie uniknąć wielu błędów i problemy związanych z typami, co ułatwi Wam pracę i przyspieszy proces debugowania. TypeScript jest stosunkowo łatwy do nauki, a jego składnia jest bardzo podobna do JavaScriptu, co sprawia, że nauka tego języka jest bardzo przyjemna.
+TypeScript to język programowania, który jest rozszerzeniem języka JavaScript i dodaje do niego statyczną analizę typów. To oznacza, że możesz uniknąć wielu błędów i problemy związanych z typami, co ułatwi Ci pracę i przyspieszy proces debugowania. TypeScript jest stosunkowo łatwy do nauki, a jego składnia jest bardzo podobna do JavaScriptu, co sprawia, że nauka tego języka jest bardzo przyjemna.
 
-W naszym skrypcie znajdziecie wiele zadań, które pomogą Wam w praktycznym opanowaniu TypeScriptu. Będziecie mieli okazję nauczyć się podstawowych koncepcji, takich jak typy podstawowe i złożone, interfejsy, klasy i dziedziczenie. Będziecie mieli także okazję nauczyć się bardziej zaawansowanych tematów, takich jak moduły, generyki i dekoratory.
+W moim skrypcie znajdziesz wiele zadań, które pomogą Ci w praktycznym opanowaniu TypeScriptu. Będziesz mieć okazję nauczyć się podstawowych koncepcji, takich jak typy podstawowe i złożone, interfejsy, klasy i dziedziczenie. Będziesz mieć także okazję nauczyć się bardziej zaawansowanych tematów, takich jak moduły, generyki i dekoratory.
 
-Jesteśmy pewni, że podczas wykonywania zadań nie tylko nauczycie się programowania w TypeScript, ale także zaczniecie go kochać! Dajcie nam znać, jeśli macie jakiekolwiek pytania lub sugestie. Powodzenia!
+Jestem pewien, że podczas wykonywania zadań nie tylko nauczysz się programowania w TypeScript, ale także zaczniesz go kochać! Daj mi znać, jeśli masz jakiekolwiek pytania lub sugestie. Powodzenia!
 
 *Skrypt ten dedykuje moje Muzie - do dzieła Słodka!*
 
