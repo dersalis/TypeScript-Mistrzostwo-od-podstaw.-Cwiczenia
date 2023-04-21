@@ -13,17 +13,17 @@ Jestem pewien, że podczas wykonywania zadań nie tylko nauczysz się programowa
 
 ## Zadania
 
-Cześć! Witaj w dziale z zadaniami w skrypcie z ćwiczeniami z języka programowania TypeScript. Tutaj znajdziesz wiele różnorodnych zadań, które pozwolą Ci opanować poszczególne aspekty języka TypeScript. Zadania w tym dziale są skonstruowane w taki sposób, żeby mogły być wykonywane przez osoby o różnym poziomie zaawansowania w programowaniu. Niezależnie od tego, czy dopiero zaczynasz swoją przygodę z programowaniem, czy też jesteś doświadczonym programistą, z pewnością znajdziesz tu coś dla siebie.
+**Nauka programowania to proces, który wymaga czasu, wysiłku i samozaparcia. Regularne wykonywanie zadań jest kluczowe, aby zdobyć praktyczną wiedzę na temat języka, który chcesz opanować.**
 
-Zadania w tym dziale skupiają się na różnych aspektach języka TypeScript, takich jak typy, klasy, interfejsy, generyki, dekoratory i wiele innych. Każde zadanie składa się z kilku kroków, które krok po kroku wprowadzą Cię w świat danego zagadnienia. Zadania te są przyjazne dla początkujących, ale jednocześnie stanowią również wyzwanie dla bardziej zaawansowanych programistów.
+W dziale z zadaniami znajdziesz wiele różnorodnych zadań, które pozwolą Ci opanować poszczególne aspekty języka TypeScript. Zadania w tym dziale są skonstruowane w taki sposób, żeby mogły być wykonywane przez osoby o różnym poziomie zaawansowania w programowaniu. Niezależnie od tego, czy dopiero zaczynasz swoją przygodę z programowaniem, czy też jesteś doświadczonym programistą, z pewnością znajdziesz tu coś dla siebie.
 
-Rozwiązania zadań znajdziesz w skrypcie, co pozwoli Ci na weryfikację swoich odpowiedzi. Jeśli będziesz mieć jakieś problemy lub pytania, możesz zawsze skontaktować się z nami, a my postaramy się pomóc.
+Zadania w tym dziale skupiają się na różnych aspektach języka TypeScript, takich jak typy, klasy i wiele innych. Każde zadanie składa się z kilku kroków, które krok po kroku wprowadzą Cię w świat danego zagadnienia. Zadania te są przyjazne dla początkujących, ale jednocześnie stanowią również formę przypomnienia dla bardziej zaawansowanych programistów.
 
-Nauka programowania to proces, który wymaga czasu, wysiłku i samozaparcia. Regularne wykonywanie zadań jest kluczowe, aby zdobyć praktyczną wiedzę na temat języka TypeScript. Zadania w tym dziale pozwolą Ci na rozwijanie umiejętności programowania w praktyce.
+Rozwiązania zadań znajdziesz w poniżej, co pozwoli Ci na weryfikację swoich odpowiedzi. Jeśli będziesz mieć jakieś problemy lub pytania, możesz zawsze skontaktować się ze mną, a ja postaramy się Ci pomóc.
 
 Zapewniamy Cię, że wykonywanie zadań w tym dziale będzie nie tylko pomocne, ale również ciekawe i inspirujące. Wraz z każdym wykonanym zadaniem będziesz miał okazję do rozwoju swoich umiejętności programistycznych, co pozwoli Ci na osiągnięcie sukcesu w swojej karierze programisty.
 
-Życzymy Ci powodzenia w wykonywaniu zadań i miej na uwadze, że każdy z nich to świetna okazja do poszerzenia swojej wiedzy o języku TypeScript i programowaniu ogólnie.
+Życzę Ci powodzenia w wykonywaniu zadań i miej na uwadze, że każde z nich to świetna okazja do poszerzenia swojej wiedzy o języku TypeScript i programowaniu ogólnie.
 
 1. Napisz funkcję, która zsumuje wszystkie liczby parzyste z przedziału od 1 do podanej liczby.
 2. Napisz program, który pobiera od użytkownika listę liczb i zwraca ich sumę.
@@ -72,7 +72,7 @@ Zapewniamy Cię, że wykonywanie zadań w tym dziale będzie nie tylko pomocne, 
 
 ## Rozwiązania
 
-Witaj w dziale z rozwiązaniami zadań w skrypcie z ćwiczeniami z języka programowania TypeScript! Tutaj znajdziesz poprawne rozwiązania wszystkich zadań, które znajdują się w poprzednim dziale. Rozwiązania te zostały stworzone w sposób, który pozwala na szybkie i łatwe zrozumienie danego zagadnienia oraz dostarczenie praktycznej wiedzy na temat języka TypeScript. Każde rozwiązanie zawiera również szczegółowe komentarze, które pomogą Ci zrozumieć, jak dany kod działa. Jeśli miałeś jakieś problemy z wykonaniem zadań, te rozwiązania są świetnym źródłem wiedzy, które pomogą Ci w lepszym zrozumieniu danego zagadnienia. Życzymy Ci powodzenia w dalszym rozwoju Twoich umiejętności programistycznych!
+W dziale z rozwiązaniami zadań znajdziesz poprawne rozwiązania wszystkich zadań, które znajdują się w poprzednim dziale. Rozwiązania te zostały stworzone w sposób, który pozwala na szybkie i łatwe zrozumienie danego zagadnienia oraz dostarczenie praktycznej wiedzy na temat języka TypeScript. Każde rozwiązanie zawiera również szczegółowe komentarze, które pomogą Ci zrozumieć, jak dany kod działa. Jeśli miałeś jakieś problemy z wykonaniem zadań, te rozwiązania są świetnym źródłem wiedzy, które pomogą Ci w lepszym zrozumieniu danego zagadnienia. Życzę Ci powodzenia w dalszym rozwoju Twoich umiejętności programistycznych!
 
 ### Zadanie 1
 **Napisz funkcję, która zsumuje wszystkie liczby parzyste z przedziału od 1 do podanej liczby.**
